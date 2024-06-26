@@ -46,4 +46,4 @@ To open and edit these projects, you need to have Cisco Packet Tracer installed 
 
 1. Clone the repository to your local machine using the following command:
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Shashwat157/CISCO-CCST/tree/main
